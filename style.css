@@ -57,9 +57,6 @@
   text-align: center;
   padding-top: 9px;
 }
-.navbar .navbar-links li a:hover {
-  background-color: #72e2f5;
-}
 .navbar .project-btn {
   width: 169px;
   height: 42px;
@@ -636,4 +633,4 @@ h6 {
   .flexbox5 {
     padding: 0 0 50px 0;
   }
-}/*# sourceMappingURL=task8.css.map */
+}/*# sourceMappingURL=style.css.map */
