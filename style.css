@@ -769,4 +769,9 @@ h6 {
   .flexbox5 {
     padding: 0 0 50px 0;
   }
+}
+@media (max-width: 1180px) {
+  [data-aos][data-aos][data-aos-delay="1500"].aos-animate, body[data-aos-delay="1500"] [data-aos].aos-animate {
+    transition-delay: 0s !important;
+  }
 }/*# sourceMappingURL=style.css.map */

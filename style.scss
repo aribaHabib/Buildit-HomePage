@@ -88,6 +88,7 @@
         width:100%;
         min-height: 779px;
     }
+  
     .flexbox1{
         min-width: 50px;
         min-height: 200px;
@@ -98,6 +99,7 @@
         position: relative;
     }
 }
+
 .flexbox-txt h6{
     font-size: 64px;
     line-height: 72px;
@@ -551,3 +553,8 @@ h6{
         padding: 0 0 50px 0;
     }
 }
+@media (max-width: 1180px) {
+    [data-aos][data-aos][data-aos-delay="1500"].aos-animate, body[data-aos-delay="1500"] [data-aos].aos-animate {
+     transition-delay: 0s !important;
+    }
+  }
